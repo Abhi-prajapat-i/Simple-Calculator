@@ -802,7 +802,7 @@ int main()
     puts("2. Subtraction                          12. Matrix Multiplication                     22. Cube Curved & total surface Area");
     puts("3. Multiplication                       13. Matrix Transpose                          23. Cuboid Total & Curved Surface Area");
     puts("4. Division                             14. Matrix Determinant                        24. Trigonometric functions value ");
-    puts("5. Square                               15. Differentation ");
+    puts("5. Square                               15. Differentation                            25. EXIT ");
     puts("6. Square root                          16. Quadratic Equation ");
     puts("7. Cube root                            17. Cubic Equation ");
     puts("8. Average                              18. Rectangle Area & perimeter");
@@ -887,6 +887,9 @@ int main()
     case 24: trigofunction_angle();
         break;
 
+    case 25: printf("Exit Successfuly"); // this line Added by Error-404
+        return 0;
+
     default:printf("\nError. Wrong Choice.\n");
         break;
     }
@@ -898,3 +901,4 @@ int main()
 
 return 0;
 }
+
