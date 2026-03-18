@@ -1,107 +1,121 @@
-Simple Calculator Using C
+# Simple Calculator Using C
 
 This project is a feature-rich calculator written in C programming language.
 It allows users to perform basic arithmetic, matrix operations,
 geometry calculations, trigonometry, and even algebraic equations.
 
-📌 Features
-✔ Basic Operations
+# 📌 Features
+## ✔ Basic Operations
 
-Addition of multiple numbers
+- Addition of multiple numbers
 
-Subtraction
+- Subtraction
 
-Multiplication of multiple numbers
+- Multiplication of multiple numbers
 
-Division with zero-validation
+- Division with zero-validation
 
-Average of numbers
+- Average of numbers
 
-Power (a^b)
+- Power (a^b)
 
-Square, Cube root & Square root
+- Square, Cube root & Square root
 
-✔ Matrix Operations
+---
 
-Matrix Addition
+## ✔ Matrix Operations
 
-Matrix Subtraction
+- Matrix Addition
 
-Matrix Multiplication
+- Matrix Subtraction
 
-Matrix Transpose
+- Matrix Multiplication
 
-Matrix Determinant
+- Matrix Transpose
 
-✔ Geometry Calculations
+- Matrix Determinant
 
-Area & Perimeter of Rectangle
+---
 
-Circle area & circumference
+## ✔ Geometry Calculations
 
-Triangle area using 3 sides (Heron’s formula)
+- Area & Perimeter of Rectangle
 
-Square (area & perimeter)
+- Circle area & circumference
 
-Cube (curved + total surface area)
+- Triangle area using 3 sides (Heron’s formula)
 
-Cuboid (curved + total surface area)
+- Square (area & perimeter)
 
-✔ Algebra & Calculus
+- Cube (curved + total surface area)
 
-Quadratic equation solver
+- Cuboid (curved + total surface area)
 
-Cubic equation solver
+---
 
-Differentiation of:
+## ✔ Algebra & Calculus
 
-sin x, cos x, tan x, cot x, sec x, cosec x
+- Quadratic equation solver
 
-aXⁿ using power rule
+- Cubic equation solver
 
-✔ Trigonometric Values
+- Differentiation of:
 
-sin(θ)
+- sin x, cos x, tan x, cot x, sec x, cosec x
 
-cos(θ)
+- aXⁿ using power rule
 
-tan(θ)
+---
 
-cot(θ)
+## ✔ Trigonometric Values
 
-sec(θ)
+- sin(θ)
 
-cosec(θ)
+- cos(θ)
 
-🛠 Technology Used
+- tan(θ)
+
+- cot(θ)
+
+- sec(θ)
+
+- cosec(θ)
+
+---
+
+# 🛠 Technology Used
 
 Programming Language: C
 
 Standard Libraries:
 stdio.h, math.h
 
-✨ Highlights
+---
 
-Beginner friendly
+# ✨ Highlights
 
-Covers mathematics from basic to advanced
+- Beginner friendly
 
-Handles invalid inputs like division by zero
+- Covers mathematics from basic to advanced
 
-Uses modular functions to keep the code readable
+- Handles invalid inputs like division by zero
 
-Displays matrices properly
+- Uses modular functions to keep the code readable
 
-📌 Future Improvements (Optional)
+- Displays matrices properly
 
-Add error messages for invalid inputs
+---
 
-File storage for input history
+# 📌 Future Improvements (Optional)
 
-GUI using C graphics or SDL
+- Add error messages for invalid inputs
 
-Scientific mode support
+- File storage for input history
 
-📄 License
+- GUI using C graphics or SDL
+
+- Scientific mode support
+
+# 📄 License
 
 This project is open-source and free to use.
